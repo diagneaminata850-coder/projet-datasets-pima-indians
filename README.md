@@ -16,3 +16,5 @@ C'est une première approche de la **Data Science appliquée au secteur médical
 ##  Comment lancer le projet?
 1. Installer les dépendances : `pip install pandas matplotlib`
 2. Lancer le script : `python data_sante.py`
+
+3. <img width="983" height="629" alt="image" src="https://github.com/user-attachments/assets/a9366a2c-b8e7-42a0-a8ad-338154ed190a" />
