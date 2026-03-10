@@ -23,3 +23,5 @@ L'analyse de ce dataset met en lumière deux indicateurs critiques dans le dépi
 Les données confirment une corrélation forte entre un glucose > 140 mg/dL et la présence de la pathologie, représentant le seuil d'alerte et validant l'importance du suivi glycémique préventif.
 L'observation de clusters montre que le risque est démultiplié chez les patients de plus de 45 ans présentant une surcharge pondérale, ce qui souligne l'intérêt du score de risque combiné plutôt que de l'analyse d'un facteur isolé.
 Ce type d'analyse descriptive est la première étape vers la médecine prédictive, permettant d'anticiper les complications et d'adapter les parcours de soins de manière personnalisée.
+
+Le dataset utilisé est intégralement pseudonymisé. Aucune donnée directement identifiante (Nom, Prénom, NIR) n'est présente, garantissant le respect de la vie privée des patients.
